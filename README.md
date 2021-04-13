@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![html-icon](./images/html-icon.PNG)![css-icon](./images/css-icon.PNG)![javascript-icon](./images/javascript-icon.PNG)![jquery-icon](./images/jquery-icon.JPG)![nodejs-icon](./images/nodejs-icon.JPG)
+![html-icon](./images/html-icon.png)![css-icon](./images/css-icon.png)![javascript-icon](./images/javascript-icon.png)![jquery-icon](./images/jquery-icon.jpg)![nodejs-icon](./images/nodejs-icon.jpg)
