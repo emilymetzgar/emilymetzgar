@@ -1,4 +1,4 @@
-![me and buttons the dog](./images/buttons.png)
+![me and buttons the dog](./images/buttons.PNG)
 
 
 
