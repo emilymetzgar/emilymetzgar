@@ -1,5 +1,6 @@
 ##
-![me and buttons the dog](./images/buttons.PNG)
+
+![me and buttons the dog](./images/buttons.png)
 
 
 
