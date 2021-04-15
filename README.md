@@ -7,7 +7,7 @@
 
 ### 🌱 I’m currently learning EXPRESS :D 
 
-### 👯 I’m looking to collaborate on anything, I am eager to learn and apply the skills I am learning everyday. 
+### 👯 I’m looking to collaborate on anything, I am eager to learn and apply the new skills I am learning everyday. 
 
 ### 📫 How to reach me: emilymetzgar93@gmail.com or find me on LinkedIn 
 
