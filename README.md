@@ -3,13 +3,13 @@
 ![me and buttons the dog](./images/buttons.png)
 
 
-## 🌟 I am here to learn Full Stack Web Development 
+### 🌟 I am here to learn Full Stack Web Development 
 
-## 🌟 I am currently working on a Note Taker using Express.js and JSON
+### 🌟 I am currently working on a full stack web app called Note Taker using Express.js and JSON
 
-## 🌟 When I am not coding, I am teaching, eating unhealthy (but delicious) food, hanging out with family & friends, or taking professional pics of my dog Buttons ^^^
+### 🌟 When I am not coding, I am teaching, eating unhealthy (but delicious) food, hanging out with family & friends, or taking professional pics of my dog Buttons ^^^
 
-## 🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/emily-metzgar/)
+### 🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/emily-metzgar/)
 
 
 
