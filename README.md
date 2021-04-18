@@ -7,7 +7,7 @@
 
 ## 🌟 I am currently working on a Note Taker using Express.js and JSON
 
-## 🌟 When I am not coding, I am teaching, eating unhealthy food, hanging out with family & friends, and taking pics of my dog Buttons ^^^
+## 🌟 When I am not coding, I am teaching, eating unhealthy (but delicious) food, hanging out with family & friends, and taking pics of my dog Buttons ^^^
 
 ## 🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/emily-metzgar/)
 
